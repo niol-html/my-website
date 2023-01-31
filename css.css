@@ -22,7 +22,6 @@ header {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: azure;
   border-top: solid 0.5px azure;
   color: black;
   }
@@ -31,7 +30,7 @@ h1 {
     line-height: 200%;
     font-family: 'Montserrrat', sans-serif;
     text-align: center;
-    color: azure;
+    color: black;
   }
 
 nav {
