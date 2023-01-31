@@ -2,6 +2,8 @@ body {
     font-family: sans-serif;
     margin: 0;
     padding: 0;
+    background-color: azure;
+    font-size: 1.2em;
   }
 
 #wrapper {
@@ -12,9 +14,12 @@ body {
 }
 
 header {
-    background-color: #333;
-    color: white;
-    padding: 20px;
+  background-image: url(https://i.insider.com/60f3fa407b0ec5001800aa98?width=1200&format=jpeg);
+  background-position: center left;
+  background-repeat: no-repeat;
+  background-size: 355px 180px;
+  background-color: azure;
+  border-top: solid 0.5px azure;
   }
  
 h1 {
