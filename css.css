@@ -15,9 +15,9 @@ body {
 
 header {
   background-image: url(https://i.insider.com/60f3fa407b0ec5001800aa98?width=1200&format=jpeg);
-  background-position: center left;
+  background-position: center;
   background-repeat: no-repeat;
-  background-size: 355px 180px;
+  background-size: cover;
   background-color: azure;
   border-top: solid 0.5px azure;
   }
