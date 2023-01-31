@@ -71,3 +71,7 @@ strong {
     display: block;
     margin-bottom: 20px;
   }
+
+  img {
+    padding: 5px;
+  }
